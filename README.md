@@ -1,4 +1,4 @@
-# -SALES-ANALYSIS-DASHBOARD-IMPLEMENTATION
+# SALES-ANALYSIS-DASHBOARD-IMPLEMENTATION
 1. Introduction
 
 This project uses Power BI Desktop to analyze company sales and profit data across different categories, regions, and time periods. The goal was to transform raw data into interactive dashboards, enabling quick insights into performance metrics such as sales, profit, and quantity sold.
@@ -28,6 +28,8 @@ Interactive Filters: Allowing users to explore by year, quarter, and region.
 KPI Tracking: Sales (887.92K), Profit (108.80K), Quantity (15.24K).
 
 Visuals Used: Bar charts, line charts, maps, and KPI cards.
+
+<img width="1247" height="672" alt="Screenshot 2025-10-02 084413" src="https://github.com/user-attachments/assets/1d4e8625-f5dc-4990-88fa-8c0e38f2a923" />
 
 4. Analysis of the Project
 
